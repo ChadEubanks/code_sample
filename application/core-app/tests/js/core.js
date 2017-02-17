@@ -1,0 +1,3 @@
+TestRunner = Alto.Namespace.create({
+
+});

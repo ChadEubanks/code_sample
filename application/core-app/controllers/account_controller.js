@@ -1,0 +1,1 @@
+CoreApp.accountController = Alto.ObjectController.createWithMixins({})

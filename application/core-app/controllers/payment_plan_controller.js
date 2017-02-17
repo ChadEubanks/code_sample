@@ -1,0 +1,1 @@
+CoreApp.paymentPlanController = Alto.ObjectController.createWithMixins({})
